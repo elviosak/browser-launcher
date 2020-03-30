@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world" width="48" height="48" viewBox="0 0 48 48" stroke-width="4" stroke="#2fcee9" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke="none" d="M0 0h48v48H0z"/>
+  
+  <path d="M4 6h40v36h-40v-36z"  fill="#2fcee9"/>
+  <path stroke="#ffffff" d="M8 10h22"/>
+  <path stroke="#ffffff" d="M38 10h2"/>
+  <path stroke="#ffffff" d="M24 18 c 16 0 16 20 0 20 c -16 -0 -16 -20 0 -20" />
+  <path stroke-width="2" stroke="#ffffff" d="M12 28h24"/>
+  <path stroke-width="2" stroke="#ffffff" d="M24 18 c 6 4 6 16 0 20 c -6 -4 -6 -16 0 -20" />
+</svg>
+
+

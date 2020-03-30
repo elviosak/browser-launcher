@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Browser Launcher
+GenericName=Browser Launcher
+StartupWMClass=browser-launcher
+TryExec=browser-launcher
+Exec=browser-launcher %U
+Terminal=false
+Icon=browser-launcher
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;image/webp;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;
