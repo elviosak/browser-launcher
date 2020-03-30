@@ -3,6 +3,8 @@ A simple app to choose which browser to use or launch with different arguments.
 
 Should be set as default browser.
 
+Test it with [Appimage](https://github.com/slidinghotdog/browser-launcher/releases/download/0.1/Browser_Launcher-x86_64.AppImage).
+
 ### Edit view:
 Start the app without arguments to edit browser list (on first launch it will search `/usr/share/applications` for apps that have MimeType: `text/html`)
 
